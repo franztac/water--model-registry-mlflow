@@ -1,0 +1,6 @@
+mlruns
+mlartifacts
+*venv
+*pkl
+*png
+*jpg
